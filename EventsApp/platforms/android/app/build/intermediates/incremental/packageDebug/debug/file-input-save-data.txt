@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 11 14:48:22 CDT 2018
+#Mon Oct 15 12:38:59 CDT 2018
 4.path=www/cordova_plugins.js
 8.set=ASSET
 6.path=www/index.html
