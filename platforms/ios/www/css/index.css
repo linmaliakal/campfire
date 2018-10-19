@@ -20,6 +20,26 @@ body
   cursor: pointer;
 }
 
+.btn a {
+  color: white;
+  text-decoration: none;
+}
+
 .btn:hover {
   background-color: #4C234C;
+}
+
+.copyright-muted {
+	color: #777;
+}
+
+hr {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 0;
+	border-top: 1px solid #eee;
+}
+
+.footer {
+	margin-top: 20px;
 }
