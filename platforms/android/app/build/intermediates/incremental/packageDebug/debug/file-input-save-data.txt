@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 18 22:23:32 CDT 2018
+#Fri Oct 19 11:11:52 CDT 2018
 4.path=www/cordova-js-src/android/promptbasednativeapi.js
 8.set=ASSET
 6.path=www/profile.html
