@@ -11,6 +11,23 @@ body
 
 }
 
+.interestBoxes {
+  width: 100px;
+  height: 50px;
+  float: left;
+  padding: 5px;
+  border: 1px solid black;
+  margin: 1;
+}
+.interestBoxes1 {
+  width: 100px;
+  height: 50px;
+  float: right;
+  padding: 5px;
+  border: 1px solid black;
+  margin: 1;
+}
+
 .btn {
   background-color: #6D326D;
   border: none;
