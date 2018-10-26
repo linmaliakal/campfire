@@ -11,25 +11,32 @@ body {
 
 }
 
-.nav ul {
-  list-style: none;
-  text-align: center
+ul {
+  list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
   background-color: #6495ED;
 }
 
-.nav li {
-  font-family: 'Georgia', serif;
-  font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
-  border-bottom: 1px, solid #888;
-
-
-  display: inline-block;
-  margin-right: -4px;
+li {
+  float: left;
 }
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 164px;
+  text-decoration: none;
+
+
+
+
+
+}
+
+
 
 
 
