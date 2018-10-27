@@ -23,18 +23,28 @@ li {
   float: left;
 }
 
+/* https://www.w3schools.com/css/css_padding.asp */
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 164px;
+  padding: 6px 75.5px;
+  /*padding: 6px 50px; */
   text-decoration: none;
-
-
-
-
-
 }
+
+#leftIcon { /* move Profile to the left*/
+
+  float: left;
+}
+
+#rightIcon { /* move Profile to the right */
+
+  float: right;
+}
+
+
+
 
 
 
