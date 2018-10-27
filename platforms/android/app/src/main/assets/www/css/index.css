@@ -1,9 +1,9 @@
 body {
   background-color: #DCDCDC /* Gray */
-  border: none;
+  border: 0;
   color: black; /* color of text */
-  margin: 0;
-  padding: 15px 32px;
+  margin: 0px;
+  padding: 0px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
