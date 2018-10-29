@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<!-- Settings page -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="buttons/css" href="css/index.css">
+    <title> Settings </title>
+  </head>
+
+  <body>
+    	<p> Include all Settings elements here </p>
+    	<p> See this image for reference </p>
+    	<button class= "btn" onclick="getLocation()"><i class= "fa fa-globe"></i>GeoTestButton</button> 
+
+
+		<p> Geo Location </p>
+    	<p id = "latitude"></p>
+    	<p id = "longitude"></p>
+    	<p id = "speed"></p>
+    	<p id = "timestamp"></p>
+    <script> 
+
+        function getLocation() {
+    		navigator.geolocation.getCurrentPosition(onSuccess,onFail, {
+    		timeout: 15000,       
+    		enableHighAccuracy: true   
+    		}); 
+        }
+
+       function onSuccess(location) {   
+        	var myLatitude = location.coords.latitude;
+        	var myLongitude = location.coords.longitude;
+        	var mySpeed = location.coords.speed;
+        	var myTimeStamp = location.timestamp;
+        	
+    		document.getElementById("latitude").innerHTML = "My Latitude is " + myLatitude;
+    		document.getElementById("longitude").innerHTML = "My Longitude is " + myLongitude;
+    		document.getElementById("speed").innerHTML = "My Speed is " + mySpeed;
+    		document.getElementById("timestamp").innerHTML = "My TimeStamp is " + myTimeStamp;
+        }
+
+        function onFail(error) {   
+    		
+        }
+
+      </script>
+
+
+
+  </body>
+
+  <footer id="footer">
+    <div class="container">
+    <hr>
+      <p class="copyright-muted" align="center">
+        Copyright © EventsApp 2018</p>
+    </div>
+  </footer>
+
+</html>
