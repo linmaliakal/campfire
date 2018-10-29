@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- Home/Events screen of the app -->
+
+<html>
+    <head>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" type="buttons/css" href="css/index.css">
+      <title>Home Screen</title>
+    </head>
+
+    <body>
+      <button class="btn"><i class="fa fa-bars"></i> Menu</button>
+      <button class="btn"><i class="fa fa-heart"></i> <a href="interests.html"> Interests</a></button>
+      <button class="btn"><i class="fa fa-home"></i> Home</button>
+      <button class="btn"><i class="fa fa-user"></i> <a href="profile.html"> Profile</a></button>
+      <button class= "btn"><i class= "fa fa-gears"></i><a href="settings.html"> Settings</a></button> 
+
+
+       
+
+      <p> We need to have the Home page elements here, such as the Events coming up & organized in such a way </p>
+      <p> See this image for reference </p>
+      
+      <p> Geo Location </p>
+      <p id = "latitude"></p>
+      <p id = "longitude"></p
+      <p id = "speed"></p>
+      <p id = "timestamp"></p>
+      
+      
+      
+      
+      <img src="img/homeprofile.jpg" height="40%" width="40%">
+      <script> 
+
+        function getLocation() {
+    		navigator.geolocation.getCurrentPosition(onSuccess,onFail, {
+    		timeout: 15000,       
+    		enableHighAccuracy: true   
+    		}); 
+        }
+
+       function onSuccess(location) {   
+        	var myLatitude = location.coords.latitude;
+        	var myLongitude = location.coords.longitude;
+        	var mySpeed = location.coords.speed;
+        	var myTimeStamp = location.timestamp;
+        	
+    		document.getElementById("latitude").innerHTML = myLatitude;
+    		document.getElementById("longitude").innerHTML = myLongitude;
+    		document.getElementById("speed").innerHTML = mySpeed;
+    		document.getElementById("timestamp").innerHTML = myTimeStamp;
+        }
+
+        function onFail(error) {   
+    		
+        }
+
+      </script>
+	  
+    </body>
+</html>
