@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 25 18:06:28 CDT 2018
+#Mon Oct 29 19:57:42 CDT 2018
 4.path=www/cordova-js-src/android/promptbasednativeapi.js
 13.baseType=DIRECTORY
 8.set=ASSET
@@ -15,6 +15,7 @@
 15.set=ASSET
 4.set=ASSET
 5.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
+16.path=www/img/logo.png
 7.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
 11.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
 9.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
@@ -45,9 +46,10 @@
 13.path=www/index.html
 11.baseType=DIRECTORY
 4.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
-15.path=www/img/logo.png
+15.path=www/settings.html
 3.baseType=DIRECTORY
 6.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+16.baseType=DIRECTORY
 10.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
 13.set=ASSET
 8.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
@@ -55,10 +57,12 @@
 8.baseType=DIRECTORY
 12.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
 14.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
+16.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
 9.set=ASSET
-count=16
+count=17
 12.baseType=DIRECTORY
 4.baseType=DIRECTORY
+16.set=ASSET
 5.set=ASSET
 9.baseType=DIRECTORY
 0.path=www/cordova-js-src/android/nativeapiprovider.js
