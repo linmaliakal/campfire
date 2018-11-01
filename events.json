@@ -1,0 +1,49 @@
+{
+  "egypt": {
+    "code": "eg",
+    "ancient_sites": {
+      "abu_simbel": {
+        "title": "abu simbel",
+        "kingdom": "upper",
+        "location": "aswan governorate",
+        "coords": {
+          "lat": 22.336823,
+          "long": 31.625532
+        },
+        "date": {
+          "start": {
+            "type": "bc",
+            "precision": "approximate",
+            "year": 1264
+          },
+          "end": {
+            "type": "bc",
+            "precision": "approximate",
+            "year": 1244
+          }
+        }
+      },
+      "karnak": {
+        "title": "karnak",
+        "kingdom": "upper",
+        "location": "luxor governorate",
+        "coords": {
+          "lat": 25.719595,
+          "long": 32.655807
+        },
+        "date": {
+          "start": {
+            "type": "bc",
+            "precision": "approximate",
+            "year": 2055
+          },
+          "end": {
+            "type": "ad",
+            "precision": "approximate",
+            "year": 100
+          }
+        }
+      }
+    }
+  }
+}

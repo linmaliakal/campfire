@@ -18,4 +18,20 @@
       <p> See this image for reference </p>
       <img src="img/homeprofile.jpg" height="40%" width="40%">
     </body>
+    <!-- JS Firebase app -->
+    <script src="https://www.gstatic.com/firebasejs/5.5.6/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.5.3/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.5.3/firebase-database.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAeSFPHy5UJLNb9DmRrr-gYfIvO2Rrl8KU",
+        authDomain: "testing-eventsapp.firebaseapp.com",
+        databaseURL: "https://testing-eventsapp.firebaseio.com",
+        projectId: "testing-eventsapp",
+        storageBucket: "testing-eventsapp.appspot.com",
+        messagingSenderId: "120498479175"
+      };
+      firebase.initializeApp(config);
+    </script>
 </html>
