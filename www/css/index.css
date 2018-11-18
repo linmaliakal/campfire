@@ -1,84 +1,50 @@
 body {
   background-color: #DCDCDC /* Gray */
   border: 0;
-  color: black; /* color of text */
+  color: black;
   margin: 0px;
   padding: 0px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.navBar {
   overflow: hidden;
-  background-color: #6495ED;
+  background-color: #BB8FCE;
 }
 
-li {
-  float: left;
+.navBar a {
+    font-size: 16px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: sticky;
 }
-
-/* https://www.w3schools.com/css/css_padding.asp */
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 6px 75.5px;
-  /*padding: 6px 50px; */
-  text-decoration: none;
-}
-
-#leftIcon { /* move Profile to the left*/
-
-  float: left;
-}
-
-#rightIcon { /* move Profile to the right */
-
-  float: right;
-}
-
-
-
-
-
-
-
 
 .btn {
-  background-color: #FFFFFF;
-  border-radius: 100px; /* roundness of the shape */
-  color: black; /* color of text on button */
-  padding: 12px 16px;
-  font-size: 16px;
+  background-color: #FBFCFC;
+  border: none;
+  border-radius: 50%;
+  color: black;
+  margin: 5px 5px;
+  padding: 10px 10px;
+  font-size: 12px;
   cursor: pointer;
 }
 
 .btn a {
-  color: white;
+  color: black;
+  padding: 5px 5px;
   text-decoration: none;
 }
 
-.btn:hover {
-  background-color: #4C234C;
+
+#leftIcon { /* move to the left*/
+  float: left;
 }
 
-.copyright-muted {
-	color: #777;
-}
-
-hr {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	border: 0;
-	border-top: 1px solid #eee;
-}
-
-.footer {
-	margin-top: 20px;
+#rightIcon { /* move to the right */
+  float: right;
 }
