@@ -28,3 +28,24 @@ body {
   color: white;
   font-size: 32px;
 }
+
+.events {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.events div {
+  background-color: #8E44AD;
+  margin: 30px;
+  text-align: center;
+  color: white;
+  line-height: 75px;
+  font-size: 25px;
+
+
+
+
+
+
+}
