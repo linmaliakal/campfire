@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
-        "source": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
-    },
-    {
         "merged": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
         "source": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
     },
     {
         "merged": "C:\\Users\\linmaliakal\\Desktop\\events-app\\EventsApp\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\EventsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",

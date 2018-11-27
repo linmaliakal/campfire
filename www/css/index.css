@@ -1,5 +1,5 @@
 body {
-  background-color: #DCDCDC /* Gray */
+  background-color: #DCDCDC
   border: 0;
   color: black;
   margin: 0px;
@@ -11,40 +11,20 @@ body {
 }
 
 .navBar {
-  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  min-width: 412px;
   background-color: #BB8FCE;
 }
 
-.navBar a {
-    font-size: 16px;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    position: sticky;
-}
-
-.btn {
-  background-color: #FBFCFC;
-  border: none;
-  border-radius: 50%;
-  color: black;
-  margin: 5px 5px;
-  padding: 10px 10px;
+.navBar div {
+  background-color: #F1F1F1;
+  margin: 10px;
+  padding: 20px;
   font-size: 12px;
-  cursor: pointer;
 }
 
-.btn a {
-  color: black;
-  padding: 5px 5px;
-  text-decoration: none;
-}
-
-
-#leftIcon { /* move to the left*/
-  float: left;
-}
-
-#rightIcon { /* move to the right */
-  float: right;
+.navBar h1 {
+  color: white;
+  font-size: 32px;
 }
