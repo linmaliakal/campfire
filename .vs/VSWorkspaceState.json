@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\node_modules",
+    "\\node_modules\\cordova-android",
+    "\\node_modules\\cordova-android\\.github",
+    "\\node_modules\\cordova-android\\bin",
+    "\\node_modules\\cordova-android\\bin\\lib",
+    "\\node_modules\\cordova-android\\cordova-js-src",
+    "\\res\\icon",
+    "\\res\\screen"
+  ],
+  "SelectedNode": "\\res",
+  "PreviewInSolutionExplorer": false
+}
