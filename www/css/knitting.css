@@ -1,0 +1,48 @@
+.knitting {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.knitting div {
+  background-color: #8E44AD;
+  margin: 15px;
+  text-align: center;
+  color: white;
+  line-height: 75px;
+  font-size: 15px;
+}
+
+.knitting h1 {
+  color: white;
+  font-size: 20px;
+  line-height: 0.8;
+}
+
+.knitting p {
+  color: white;
+  font-size: 16px;
+  line-height: 0.8;
+}
+
+.profileheader div {
+  color: #8E44AD;
+  font-size: 15px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.profilelist div {
+  color: #A9A9A9;
+  font-size: 12px;
+  text-align: center;
+  padding: 5px;
+}
+
+.eventheader div {
+  color: #8E44AD;
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
