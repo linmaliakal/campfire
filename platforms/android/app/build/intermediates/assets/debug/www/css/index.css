@@ -1,5 +1,5 @@
 body {
-  background-color: #DCDCDC
+  background-color: #DCDCDC;
   border: 0;
   color: black;
   margin: 0px;
@@ -28,32 +28,4 @@ body {
 .navBar h1 {
   color: white;
   font-size: 32px;
-}
-
-.events {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-transform: uppercase;
-}
-
-.events div {
-  background-color: #8E44AD;
-  margin: 30px;
-  text-align: center;
-  color: white;
-  line-height: 75px;
-  font-size: 15px;
-}
-
-.events h1 {
-  color: white;
-  font-size: 20px;
-  line-height: 0.8;
-}
-
-.events p {
-  color: white;
-  font-size: 16px;
-  line-height: 0.8;
 }

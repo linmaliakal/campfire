@@ -1,0 +1,62 @@
+.eventsnav {
+  display: flex;
+  min-width: 412px;
+  background-color: #BB8FCE;
+  color: white;
+  padding-right: 10px;
+  padding-left: 2px;
+}
+
+.eventsnav div {
+  background-color: #F1F1F1;
+  margin: 22px;
+  padding: 5px 3px 1px 5px;
+  font-size: 15px;
+}
+
+.events {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.events div {
+  background-color: #8E44AD;
+  margin: 30px;
+  text-align: center;
+  color: white;
+  line-height: 75px;
+  font-size: 15px;
+}
+
+.events h1 {
+  color: white;
+  font-size: 20px;
+  line-height: 0.8;
+}
+
+.events p {
+  color: white;
+  font-size: 16px;
+  line-height: 0.8;
+}
+
+/*.eventsbox {
+  background-color:
+
+
+
+
+
+}
+
+
+
+
+.eventsboxinfo {
+
+
+
+
+} */
