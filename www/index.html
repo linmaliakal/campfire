@@ -32,5 +32,19 @@
         messagingSenderId: "120498479175"
       };
       firebase.initializeApp(config);
+
+      const db = firebase.database();
+      db.ref('egypt/ancient_sites/abu_simbel/title').set('Abydos');
+
+      //single data - ONCE
+      db.ref('egypt/ancient_sites/abu_simbel/').once('value')
+        .then((snapshot) => {
+          //snapshot of the data -  request the return val for the data at the time of query...
+          const data = snapshot.val();
+          console.log('single data = ', data);
+        })
+        .catch((e) => {
+          console.log('error returned - ', e);
+        });
     </script>
 </html>
