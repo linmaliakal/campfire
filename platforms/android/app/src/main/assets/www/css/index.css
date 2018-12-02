@@ -5,6 +5,7 @@ body {
   margin: 0px;
   padding: 0px;
   text-align: center;
+  word-wrap: normal;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
