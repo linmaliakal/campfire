@@ -1,3 +1,21 @@
+.knittingnav {
+  display: flex;
+  justify-content: space-between;
+  min-width: 412px;
+  background-color: #BB8FCE;
+}
+
+.knittingnav div {
+  background-color: #F1F1F1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 12px;
+}
+
+.knittingnav h1 {
+  font-size: 30px;
+}
+
 .knitting {
   display: flex;
   flex-direction: column;
