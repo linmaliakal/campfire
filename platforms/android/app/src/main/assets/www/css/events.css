@@ -1,6 +1,5 @@
-/*css for index.html*/
+/*css for events goxes in index.html*/
 .events {
-  background-color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,7 +10,8 @@
   background-color: #BDC696;
   margin: 30px;
   text-align: center;
-  color: white;}
+  color: white;
+}
 
 .events h1 {
   color: white;
@@ -25,7 +25,7 @@
   line-height: 0.8;
 }
 
-/*css for eventsbox.html*/
+/*css for the individual events*/
 .eventsnav {
   display: flex;
   justify-content: space-between;
