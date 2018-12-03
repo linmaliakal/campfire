@@ -2,21 +2,23 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #BB8FCE;
+  background-color: #5e634b;
 }
 
 .knittingnav div {
-  background-color: #F1F1F1;
+  background-color: white;
   margin: 10px;
   padding: 20px;
   font-size: 12px;
 }
 
 .knittingnav h1 {
+  color: white;
   font-size: 30px;
 }
 
 .knitting {
+  background-color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +26,7 @@
 }
 
 .knitting div {
-  background-color: #8E44AD;
+  background-color: #BDC696;
   margin: 15px;
   text-align: center;
   color: white;
@@ -45,21 +47,21 @@
 }
 
 .profileheader div {
-  color: #8E44AD;
+  color: #5e634b;
   font-size: 15px;
   text-align: left;
   font-weight: bold;
 }
 
 .profilelist div {
-  color: #A9A9A9;
+  color: black;
   font-size: 12px;
   text-align: center;
   padding: 5px;
 }
 
 .eventheader div {
-  color: #8E44AD;
+  color: #5e634b;
   font-size: 30px;
   text-align: left;
   font-weight: bold;

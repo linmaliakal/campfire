@@ -15,11 +15,11 @@ body {
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #BB8FCE;
+  background-color: #5e634b;
 }
 
 .navBar div {
-  background-color: #F1F1F1;
+  background-color: white;
   margin: 10px;
   padding: 20px;
   font-size: 12px;
