@@ -47,21 +47,21 @@
 }
 
 .profileheader div {
-  color: #BDC696;
+  color: #5e634b;
   font-size: 15px;
   text-align: left;
   font-weight: bold;
 }
 
 .profilelist div {
-  color: #5e634b;
+  color: black;
   font-size: 12px;
   text-align: center;
   padding: 5px;
 }
 
 .eventheader div {
-  color: #BDC696;
+  color: #5e634b;
   font-size: 30px;
   text-align: left;
   font-weight: bold;
