@@ -27,21 +27,23 @@
 /*css for eventsbox.html*/
 .eventsnav {
   display: flex;
+  justify-content: space-between;
   min-width: 412px;
   background-color: #BB8FCE;
-  color: white;
-  padding-left: 0px;
-  padding-right: 20px;
 }
 
 .eventsnav div {
   background-color: #F1F1F1;
-  margin: 22px;
-  padding: 5px 2px 1px 2px;
-  font-size: 15px;
+  margin: 10px;
+  padding: 20px;
+  font-size: 12px;
 }
 
-.eventsbox {
+.eventsnav h1 {
+  font-size: 20px;
+}
+
+.eventsBox {
   background-color: #E5E7E9;
 }
 
