@@ -1,5 +1,6 @@
 /*css for index.html*/
 .events {
+  background-color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,7 +8,7 @@
 }
 
 .events div {
-  background-color: #8E44AD;
+  background-color: #BDC696;
   margin: 30px;
   text-align: center;
   color: white;}
@@ -29,11 +30,11 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #BB8FCE;
+  background-color: #5e634b;
 }
 
 .eventsnav div {
-  background-color: #F1F1F1;
+  background-color: white;
   margin: 10px;
   padding: 20px;
   font-size: 12px;
@@ -44,7 +45,7 @@
 }
 
 .eventsBox {
-  background-color: #E5E7E9;
+  background-color: #BDC696;
 }
 
 .eventsbox div {
@@ -69,7 +70,7 @@
 }
 
 button {
-  background-color: #C39BD3;
+  background-color: #5e634b;
   border: none;
   border-radius: 12px;
   color: black;
