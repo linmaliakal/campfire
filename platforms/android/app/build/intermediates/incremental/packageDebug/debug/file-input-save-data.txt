@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Dec 02 23:09:16 CST 2018
+#Sun Dec 02 23:18:23 CST 2018
 17.baseType=DIRECTORY
 4.path=www/cordova-js-src/android/promptbasednativeapi.js
 22.set=DEX
