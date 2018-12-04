@@ -9,7 +9,7 @@
 
 
 .profinterests div {
-    list-style-type: circle;
+    list-style-type: circle; // SHOULD add bullet points...
     float: left;
     width: 50%;
 }
