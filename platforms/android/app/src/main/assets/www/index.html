@@ -1,39 +1,54 @@
 <!DOCTYPE html>
-<!-- Home/Events screen of the app -->
-
 <html>
-    <head>
-      <link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      <link rel="stylesheet" type="buttons/css" href="css/index.css">
-      <title>Home Screen</title>
-    </head>
 
-    <body>
-      <button class="btn"><i class="fa fa-bars"></i> Menu</button>
-      <button class="btn"><i class="fa fa-heart"></i> <a href="interests.html"> Interests</a></button>
-      <button class="btn"><i class="fa fa-home"></i> Home</button>
-      <button class="btn"><i class="fa fa-user"></i> <a href="profile.html"> Profile</a></button>
-      <button class="btn"><i class= "fa fa-gears"></i><a href="settings.html"> Settings</a></button>
+<head>
+<title> Home/Events Screen </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="index/css" href="css/index.css">
+<link rel="stylesheet" type="index/css" href="css/events.css">
+</head>
+
+<body>
+
+  <div class="navBar">
+    <div><a href = "profile.html" style="text-decoration: none; color : #5e634b;"><i class="fa fa-user">Profile</i></a></div>
+    <h1>Events</h1>
+    <div><a href = "interests.html" style="text-decoration: none; color : #5e634b;"><i class="fa fa-heart">Interests</i></a></div>
+  </div>
+
+  <div class="events">
+    <div>
+      <h1><a href = "feltedbuddies.html" style="text-decoration: none; color : #FFFFFF;">Felted Buddies!</a></h1>
+        <p>December 7, 2018</p>
+        <p>1474 N. Milwaukee Ave, Chicago, IL 60622</p>
+    </div>
+    <div>
+      <h1><a href = "competitiveknitting.html" style="text-decoration: none; color : #FFFFFF;">Competitive Knitting</a></h1>
+        <p>December 8, 2018</p>
+        <p>1474 N. Milwaukee Ave, Chicago, IL 60622</p>
+    </div>
+    <div>
+      <h1>Skydiving</h1>
+        <p>December 12, 2018</p>
+        <p>800 W. Scott St, Chicago, IL 60610</p>
+    </div>
+    <div>
+      <h1>Mud Wrestling</h1>
+        <p>December 18, 2018</p>
+        <p>7345 N. Washtenaw Ave, Chicago, IL 60645</p>
+    </div>
+    <div>
+      <h1>Yodeling</h1>
+        <p>December 21, 2018</p>
+        <p>1012 N. Dearborn St, Chicago, IL 60610</p>
+    </div>
+  </div>
 
 
 
 
-      <p> We need to have the Home page elements here, such as the Events coming up & organized in such a way </p>
-      <p> See this image for reference </p>
-
-      <p> Geo Location </p>
-      <p id = "latitude"></p>
-      <p id = "longitude"></p
-      <p id = "speed"></p>
-      <p id = "timestamp"></p>
 
 
 
-
-      <img src="img/homeprofile.jpg" height="40%" width="40%">
-      <script type="text/javascript" src="cordova.js"></script>
-      <script type="text/javascript" src="js/index.js"></script>
-
-    </body>
+</body>
 </html>

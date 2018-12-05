@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\EventsApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\EventsApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\EventsApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\EventsApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
@@ -23,10 +23,76 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Jrara\\OneDrive\\Documents\\322 Project\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Maya\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jrara\\OneDrive\\Documents\\322 Project\\events-app\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Maya\\events-app\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,55,97",
+                        "endColumns": "63,41,58",
+                        "endOffsets": "215,92,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,161",
+                        "endColumns": "63,41,58",
+                        "endOffsets": "114,156,215"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\EventsApp\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\EventsApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\EventsApp\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\EventsApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,55,97",
+                        "endColumns": "63,41,58",
+                        "endOffsets": "215,92,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,161",
+                        "endColumns": "63,41,58",
+                        "endOffsets": "114,156,215"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,55,97",
+                        "endColumns": "63,41,58",
+                        "endOffsets": "215,92,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,161",
+                        "endColumns": "63,41,58",
+                        "endOffsets": "114,156,215"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",

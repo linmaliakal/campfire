@@ -1,0 +1,68 @@
+.knittingnav {
+  display: flex;
+  justify-content: space-between;
+  min-width: 412px;
+  background-color: #5e634b;
+}
+
+.knittingnav div {
+  background-color: white;
+  margin: 10px;
+  padding: 20px;
+  font-size: 12px;
+}
+
+.knittingnav h1 {
+  color: white;
+  font-size: 30px;
+}
+
+.knitting {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.knitting div {
+  background-color: #BDC696;
+  margin: 15px;
+  text-align: center;
+  color: white;
+  line-height: 75px;
+  font-size: 15px;
+}
+
+.knitting h1 {
+  color: white;
+  font-size: 20px;
+  line-height: 0.8;
+}
+
+.knitting p {
+  color: white;
+  font-size: 16px;
+  line-height: 0.8;
+}
+
+.profileheader div {
+  color: #5e634b;
+  font-size: 15px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.profilelist div {
+  color: black;
+  font-size: 12px;
+  text-align: center;
+  padding: 5px;
+}
+
+.eventheader div {
+  color: #5e634b;
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
