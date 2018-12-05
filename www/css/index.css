@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #1B1F3B;
+  background-color: #1B1F3B; /*dark blue*/
 }
 
 .navBar div {

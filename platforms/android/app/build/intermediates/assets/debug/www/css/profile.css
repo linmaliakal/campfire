@@ -17,25 +17,12 @@
 
 
 .profinterests div {
-  background-color: #26408B;
+  background-color: #99A891; /*dark greenish gray*/
   margin: 10px;
   padding: 10px;
   text-align: center;
   color: white;
-
-
-    /*list-style-type: circle; // SHOULD add bullet points...
-    float: left;
-    width: 50%; */
 }
-
-/* Clear floats after the columns
-.profinterests:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-*/
 
 .profevents {
   display: flex;
@@ -45,7 +32,7 @@
 }
 
 .profevents div {
-  background-color: #26408B;
+  background-color: #99A891; /*dark greenish gray*/
   margin: 15px;
   text-align: center;
   color: white;
