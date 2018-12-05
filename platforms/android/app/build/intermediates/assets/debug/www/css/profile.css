@@ -1,11 +1,7 @@
-/*.profpic {
-
-
-
-
-
+.profpic img{
+  margin: 5px;
 }
-*/
+
 
 .profinterests {
   display: flex;
@@ -13,6 +9,7 @@
   flex-wrap: wrap;
   justify-content: center;
   text-transform: uppercase;
+
 }
 
 
@@ -38,14 +35,16 @@
   color: white;
 }
 
-h1 {
+h2 {
   color: black;
   font-size: 20px;
   line-height: 0.8;
   text-align: left;
+  margin: 5px;
+
 }
 
-.profevents h1 {
+.profevents h3 {
   color: white;
   font-size: 20px;
   line-height: 0.8;
