@@ -1,4 +1,4 @@
-#Tue Dec 04 21:23:35 CST 2018
-base.0=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue Dec 04 21:46:11 CST 2018
+base.0=C\:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
