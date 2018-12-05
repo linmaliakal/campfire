@@ -19,10 +19,18 @@ body {
 }
 
 .navBar div {
-  background-color: white;
+  /*background-color: white;*/
   margin: 10px;
   padding: 20px;
   font-size: 12px;
+}
+
+.icon {
+	color: #BDC696;
+  font-size: 30px;
+  align-items: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 
 .navBar h1 {
