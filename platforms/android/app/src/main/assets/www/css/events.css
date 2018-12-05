@@ -7,7 +7,7 @@
 }
 
 .events div {
-  background-color: #BDC696;
+  background-color: #26408B;
   margin: 30px;
   text-align: center;
   color: white;
@@ -30,7 +30,7 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #5e634b;
+  background-color: #26408B;
 }
 
 .eventsnav div {
@@ -46,7 +46,7 @@
 }
 
 .eventsBox {
-  background-color: #BDC696;
+  background-color: #26408B;
 }
 
 .eventsbox div {
@@ -71,7 +71,7 @@
 }
 
 button {
-  background-color: #5e634b;
+  background-color: #1B1F3B;
   border: none;
   border-radius: 12px;
   color: white;
