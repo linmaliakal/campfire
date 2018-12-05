@@ -5,13 +5,35 @@
 
 
 }
-
+*/
 
 .profinterests {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-transform: uppercase;
+}
 
 
+.profinterests div {
+  background-color: #BDC696;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  color: white;
 
 
+    /*list-style-type: circle; // SHOULD add bullet points...
+    float: left;
+    width: 50%; */
+}
+
+/* Clear floats after the columns
+.profinterests:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 */
 
@@ -29,17 +51,18 @@
   color: white;
 }
 
-.profevents h1 {
+h1 {
   color: black;
   font-size: 20px;
   line-height: 0.8;
   text-align: left;
 }
 
-.profevents h2 {
+.profevents h1 {
   color: white;
   font-size: 20px;
   line-height: 0.8;
+  text-align: center;
 }
 
 .profevents p {
