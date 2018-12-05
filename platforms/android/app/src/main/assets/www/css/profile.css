@@ -1,15 +1,20 @@
-.profpic img{
-  margin: 5px;
+.profpic {
+  display: flex;
+  margin: 10px;
 }
 
+.profpic p {
+  margin: 10px;
+  text-align: left;
+  font-size: 17px;
+}
 
 .profinterests {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start; /*has interest boxes start from left*/
   text-transform: uppercase;
-
 }
 
 
@@ -37,11 +42,11 @@
 
 h2 {
   color: black;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 0.8;
   text-align: left;
-  margin: 5px;
-
+  margin: 10px;
+  margin-top: 25px;
 }
 
 .profevents h3 {

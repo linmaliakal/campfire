@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 04 21:31:05 CST 2018
+#Tue Dec 04 23:06:36 CST 2018
 17.baseType=DIRECTORY
 4.path=www/cordova-js-src/android/promptbasednativeapi.js
 25.base=C\:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\assets\\debug
