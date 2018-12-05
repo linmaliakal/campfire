@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  border: 0;
+  color: black;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  overflow: auto
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  min-width: 412px;
+  background-color: #5e634b;
+}
+
+.navBar div {
+  background-color: white;
+  margin: 10px;
+  padding: 20px;
+  font-size: 12px;
+}
+
+.navBar h1 {
+  color: white;
+  font-size: 32px;
+}
