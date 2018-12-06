@@ -1,0 +1,23 @@
+body {
+  background-color: #1B1F3B;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.logininfo {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.logininfo div {
+  color: white;
+  margin: 20px;
+}
+
+.logininfo h1 {
+  margin: 10px;
+}

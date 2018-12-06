@@ -19,7 +19,7 @@
 
 
 .profinterests div {
-  background-color: #BDC696;
+  background-color: #40376D; /*dark purple*/
   margin: 10px;
   padding: 10px;
   text-align: center;
@@ -34,7 +34,7 @@
 }
 
 .profevents div {
-  background-color: #BDC696;
+  background-color: #164741; /*dark green*/
   margin: 15px;
   text-align: center;
   color: white;

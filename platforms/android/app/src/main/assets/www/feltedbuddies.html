@@ -6,15 +6,17 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="index/css" href="css/index.css">
 <link rel="stylesheet" type="index/css" href="css/events.css">
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+
 </head>
 
 <body>
 
   <div class="eventsnav">
-    <div><a href = "index.html" class="icon" style="text-decoration: none;"><i class="fa fa-arrow-left"></i></a></div>
+    <div><a href = "index.html" class="iconEvents" style="text-decoration: none;"><i class="fa fa-arrow-left"></i></a></div>
     <h1>Felted Buddies!</h1>
-    <div><a href = "interests.html" class="icon" style="text-decoration: none;"><i class="fa fa-heart"></i></a></div>
-
+    <div><a href = "interests.html" class="iconEvents" style="text-decoration: none;"><i class="fa fa-heart"></i></a></div>
   </div>
 
   <div class="eventsbox">
@@ -35,17 +37,11 @@
       <p>Attendance: 40</p>
     </div>
 
-  <button type="button" onclick="alert('You have been added to the event')">Going</button>
-
-
-
-
-
+    <div id="map_canvas"></div>
+    <param id="address" value="1474 N. Milwaukee Ave, Chicago IL 60622">
+    <script type="text/javascript"  src="js/index.js"></script>
+    <button type="button" onclick="alert('You have been added to the event')">Going</button>
   </div>
-
-
-
-
 
 </body>
 

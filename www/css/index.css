@@ -15,17 +15,16 @@ body {
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #5e634b;
+  background-color: #1B1F3B; /*dark blue*/
 }
 
 .navBar div {
-  /*background-color: white;*/
   margin: 10px;
   padding: 20px;
   font-size: 12px;
 }
 
-.icon {
+.icon { /* customizing icons for navigation bar*/
 	color: #BDC696;
   font-size: 30px;
   align-items: center;

@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #5e634b;
+  background-color: #1B1F3B; /*dark blue*/
 }
 
 .knittingnav div {
@@ -26,7 +26,7 @@
 }
 
 .knitting div {
-  background-color: #BDC696;
+  background-color: #164741; /*dark green*/
   margin: 15px;
   text-align: center;
   color: white;
@@ -47,10 +47,11 @@
 }
 
 .profileheader div {
-  color: #5e634b;
+  color: #164741; /*dark green*/
   font-size: 15px;
   text-align: left;
   font-weight: bold;
+  margin: 10px;
 }
 
 .profilelist div {
@@ -61,8 +62,9 @@
 }
 
 .eventheader div {
-  color: #5e634b;
+  color: #164741; /*dark green*/
   font-size: 30px;
   text-align: left;
   font-weight: bold;
+  margin: 10px;
 }

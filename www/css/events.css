@@ -7,8 +7,8 @@
 }
 
 .events div {
-  background-color: #BDC696;
-  margin: 30px;
+  background-color: #164741; /*dark green*/
+  margin: 20px;
   text-align: center;
   color: white;
 }
@@ -30,11 +30,10 @@
   display: flex;
   justify-content: space-between;
   min-width: 412px;
-  background-color: #5e634b;
+  background-color: #164741; /*green so users can tell it's an event*/
 }
 
 .eventsnav div {
-  background-color: white;
   margin: 10px;
   padding: 20px;
   font-size: 12px;
@@ -42,11 +41,19 @@
 
 .eventsnav h1 {
   color: white;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+.iconEvents { /* customizing icons for navigation bar*/
+	color: #BDC696;
+  font-size: 30px;
+  align-items: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 
 .eventsBox {
-  background-color: #BDC696;
+  background-color: #164741; /*green so users can tell it's an event*/
 }
 
 .eventsbox div {
@@ -71,7 +78,7 @@
 }
 
 button {
-  background-color: #5e634b;
+  background-color: #1B1F3B; /*dark blue*/
   border: none;
   border-radius: 12px;
   color: white;
@@ -81,3 +88,7 @@ button {
   display: inline-block;
   font-size: 16px;
 }
+
+#map_canvas { /* Must bigger size than 100x100 pixels */
+  width: 90%;
+  height: 400px;

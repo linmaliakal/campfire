@@ -10,7 +10,13 @@
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.example.EventsApp"
     },
-    "cordova-plugin-splashscreen": {
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.EventsApp"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyCrB90J8TIaWX32cH8kfr5J3pRTmvGBGAQ",
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "com.example.EventsApp"
     }
   },
