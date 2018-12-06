@@ -1,20 +1,30 @@
-/*.profpic {
-
-
-
-
-
+.profpic {
+  display: flex;
+  margin: 10px;
 }
-*/
+
+.profpic p {
+  margin: 10px;
+  text-align: left;
+  font-size: 17px;
+}
 
 .profinterests {
-  color: black;
-  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start; /*has interest boxes start from left*/
   text-transform: uppercase;
-  font-weight: bold;
-  text-align: left;
 }
 
+
+.profinterests div {
+  background-color: #66101F; /*dark red*/
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
 
 .profevents {
   display: flex;
@@ -24,23 +34,26 @@
 }
 
 .profevents div {
-  background-color: #BDC696;
+  background-color: #99A891; /*dark greenish gray*/
   margin: 15px;
   text-align: center;
   color: white;
 }
 
-.profevents h1 {
+h2 {
   color: black;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 0.8;
   text-align: left;
+  margin: 10px;
+  margin-top: 25px;
 }
 
-.profevents h2 {
+.profevents h3 {
   color: white;
   font-size: 20px;
   line-height: 0.8;
+  text-align: center;
 }
 
 .profevents p {
