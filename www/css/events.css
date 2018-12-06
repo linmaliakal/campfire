@@ -81,3 +81,7 @@ button {
   display: inline-block;
   font-size: 16px;
 }
+
+#map_canvas { /* Must bigger size than 100x100 pixels */
+  width: 90%;
+  height: 400px;
