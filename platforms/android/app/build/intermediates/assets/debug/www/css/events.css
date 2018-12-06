@@ -90,6 +90,10 @@ button {
   font-size: 16px;
 }
 
+.fobevents {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
 #map_canvas { /* Must bigger size than 100x100 pixels */
   width: 90%;
   height: 400px;

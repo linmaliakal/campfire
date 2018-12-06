@@ -1,0 +1,74 @@
+{
+	"events": {
+		"felted_buddies": {
+			"event_name": "Felted Buddies",
+			"date": "December 7, 2018",
+			"address": "1474 N. Milwaukee Ave, Chicago, IL 60622",
+			"coords": {
+				"lat": 41.908450,
+				"long": -87.674680
+			},
+			"interests": {
+				"int1": "sewing",
+				"int2": "DIY",
+				"int3": ""
+			}
+		},
+		"competitive_knitting": {
+			"event_name": "Competitive Knitting",
+			"date": "December 8, 2018",
+			"address": "1901 W. Madison St, Chicago, IL 60612",
+			"coords": {
+				"lat": 41.880650,
+				"long": -87.675140
+			},
+			"interests": {
+				"int1": "arts",
+				"int2": "sewing",
+				"int3": ""
+			}
+		},
+		"skydiving": {
+			"event_name": "Skydiving",
+			"date": "December 12, 2018",
+			"address": "800 W. Scott St, Chicago, IL 60610",
+			"coords": {
+				"lat": 41.904290,
+				"long": -87.641340
+			},
+			"interests": {
+				"int1": "adventure",
+				"int2": "",
+				"int3": ""
+			}
+		},
+		"mud_wrestling": {
+			"event_name": "Mud Wrestling",
+			"date": "December 12, 2018",
+			"address": "7345 N. Washtenaw Ave, Chicago, IL 60645",
+			"coords": {
+				"lat": 42.015270,
+				"long": -87.697380
+			},
+			"interests": {
+				"int1": "fitness",
+				"int2": "sports",
+				"int3": ""
+			}
+		},
+		"yodeling": {
+			"event_name": "Yodeling",
+			"date": "December 21, 2018",
+			"address": "1012 N. Dearborn St, Chicago, IL 60610",
+			"coords": {
+				"lat": 41.901030,
+				"long": -87.630250
+			},
+			"interests": {
+				"int1": "singing",
+				"int2": "music",
+				"int3": ""
+			}
+		},
+	}
+}

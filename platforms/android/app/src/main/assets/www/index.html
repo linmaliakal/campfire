@@ -6,10 +6,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="index/css" href="css/index.css">
 <link rel="stylesheet" type="index/css" href="css/events.css">
+<script src="https://www.gstatic.com/firebasejs/5.6.0/firebase.js"></script>
 </head>
 
 <body>
-  <a href="login.html">Test Login</a> <!--test, delete later-->
+  <a href="login.html">Login Test</a> <!--test, delete later-->
 
   <div class="navBar">
     <div><a href = "profile.html" class="icon" style="text-decoration: none;"><i class="fa fa-user"></i></a></div>
@@ -44,6 +45,10 @@
         <p>1012 N. Dearborn St, Chicago, IL 60610</p>
     </div>
   </div>
+
+  <button class="fobevents" onclick="window.location.href='addevent.html'"><i class="fa fa-plus"> Add Event</i></button>
+
+  <script src="js/firebase.js"></script>
 
 </body>
 </html>
