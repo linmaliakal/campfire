@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Sat Dec 01 16:52:56 CST 2018
 base.0=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+=======
+#Wed Dec 05 15:14:16 CST 2018
+base.0=C\:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+>>>>>>> master
 path.0=classes.dex
 renamed.0=classes.dex

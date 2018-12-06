@@ -1,0 +1,25 @@
+.interests {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.interests div {
+  width: 45%;
+  padding-top: 39%;
+  background-color: #BDC696;
+  margin: 10px;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  /*object-fit: cover;*/
+}
+
+.interests h1 {
+  color: white;
+  font-size: 20px;
+  line-height: 0.8;
+}

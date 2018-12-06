@@ -1,0 +1,63 @@
+.profpic {
+  display: flex;
+  margin: 10px;
+}
+
+.profpic p {
+  margin: 10px;
+  text-align: left;
+  font-size: 17px;
+}
+
+.profinterests {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start; /*has interest boxes start from left*/
+  text-transform: uppercase;
+}
+
+
+.profinterests div {
+  background-color: #BDC696;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.profevents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.profevents div {
+  background-color: #BDC696;
+  margin: 15px;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  color: black;
+  font-size: 23px;
+  line-height: 0.8;
+  text-align: left;
+  margin: 10px;
+  margin-top: 25px;
+}
+
+.profevents h3 {
+  color: white;
+  font-size: 20px;
+  line-height: 0.8;
+  text-align: center;
+}
+
+.profevents p {
+  color: white;
+  font-size: 16px;
+  line-height: 0.8;
+}

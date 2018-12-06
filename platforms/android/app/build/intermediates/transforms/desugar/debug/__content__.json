@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"name":":CordovaLib","index":0,"scopes":["SUB_PROJECTS"],"types":["CLASSES"],"format":"JAR","present":true},{"name":"3cf90ff15415bd5f0b489515c9b3e2212417d558","index":2,"scopes":["PROJECT"],"types":["CLASSES"],"format":"DIRECTORY","present":false},{"name":"81d4668c26f2ffb7df2e0dc603f9f70ce7f75a54","index":3,"scopes":["PROJECT"],"types":["CLASSES"],"format":"DIRECTORY","present":true}]
+=======
+[{"name":":CordovaLib","index":0,"scopes":["SUB_PROJECTS"],"types":["CLASSES"],"format":"JAR","present":true},{"name":"81d4668c26f2ffb7df2e0dc603f9f70ce7f75a54","index":12,"scopes":["PROJECT"],"types":["CLASSES"],"format":"DIRECTORY","present":false},{"name":"b0e374e466ea170c84f383d99995ae043d3fa680","index":13,"scopes":["PROJECT"],"types":["CLASSES"],"format":"DIRECTORY","present":true}]
+>>>>>>> master
