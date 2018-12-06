@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Jrara\\OneDrive\\Documents\\Final\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Jrara\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\29518a51538ecc375340fd4842980fda\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\805f916d2c0411bc6530e388fb241390\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -46,10 +46,25 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Jrara\\OneDrive\\Documents\\Final\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\805f916d2c0411bc6530e388fb241390\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Jrara\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\29518a51538ecc375340fd4842980fda\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Maya\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Maya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e87f7e8c3ad705e56a4350b7ffe59e17\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

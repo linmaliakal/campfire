@@ -16,10 +16,25 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\Maya\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\805f916d2c0411bc6530e388fb241390\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\Maya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e87f7e8c3ad705e56a4350b7ffe59e17\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\linmaliakal\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\7bd10bad9ce2727249970bae28695e3d\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -46,10 +61,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\linmaliakal\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\7bd10bad9ce2727249970bae28695e3d\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\805f916d2c0411bc6530e388fb241390\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

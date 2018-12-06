@@ -16,6 +16,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\Maya\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Maya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e87f7e8c3ad705e56a4350b7ffe59e17\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\linmaliakal\\Desktop\\events-app\\C:\\Users\\Janeen\\Documents\\Cordova\\events-app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {

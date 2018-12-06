@@ -30,7 +30,10 @@
         <variable name="LOCATION_WHEN_IN_USE_DESCRIPTION" value="This app wants to get your location while this app runs only." />
         <variable name="LOCATION_ALWAYS_USAGE_DESCRIPTION" value="This app wants to get your location always, even this app runs in background." />
     </plugin>
+    <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
+    <preference name = "SplashScreen" value = "screen" />
+    <preference name = "SplashScreenDelay" value = "4000" />
+    <preference name = "SplashMaintainAspectRatio" value = "true" />
     <engine name="android" spec="7.1.1" />
     <engine name="ios" spec="4.5.5" />
-    <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
 </widget>
