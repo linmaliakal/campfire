@@ -51,6 +51,7 @@
   font-size: 15px;
   text-align: left;
   font-weight: bold;
+  margin: 10px;
 }
 
 .profilelist div {
@@ -65,4 +66,5 @@
   font-size: 30px;
   text-align: left;
   font-weight: bold;
+  margin: 10px;
 }
