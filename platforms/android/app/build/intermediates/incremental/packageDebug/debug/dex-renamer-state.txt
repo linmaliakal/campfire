@@ -1,4 +1,4 @@
-#Thu Dec 06 11:35:25 CST 2018
+#Thu Dec 06 12:36:56 CST 2018
 base.0=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

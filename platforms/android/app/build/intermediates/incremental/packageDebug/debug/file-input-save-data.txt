@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Dec 06 11:35:26 CST 2018
+#Thu Dec 06 12:36:56 CST 2018
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/linmaliakal/Desktop/events-app/platforms/android/app/build/intermediates/assets/debug
