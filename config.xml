@@ -34,7 +34,7 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="4000" />
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <splash src="res\screen\android\campfire-splash-screen.jpg" />
+    <splash src="res\screen\android\new-campfire-splash-screen.jpg" />
     <engine name="android" spec="7.1.1" />
     <engine name="ios" spec="4.5.5" />
 </widget>
