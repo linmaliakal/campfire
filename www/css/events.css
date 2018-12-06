@@ -8,7 +8,7 @@
 
 .events div {
   background-color: #99A891; /*dark greenish gray*/
-  margin: 30px;
+  margin: 20px;
   text-align: center;
   color: white;
 }
@@ -34,7 +34,7 @@
 }
 
 .eventsnav div {
-  background-color: white;
+  /* background-color: white; got rid of white box around the individual events navbar*/
   margin: 10px;
   padding: 20px;
   font-size: 12px;
@@ -43,6 +43,14 @@
 .eventsnav h1 {
   color: white;
   font-size: 20px;
+}
+
+.iconEvents { /* customizing icons for navigation bar*/
+	color: white;
+  font-size: 30px;
+  align-items: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 
 .eventsBox {

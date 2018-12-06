@@ -19,7 +19,7 @@
 
 
 .profinterests div {
-  background-color: #66101F; /*dark red*/
+  background-color: #625b69; /*nora's water bottle purple*/ /* dark red: #BDC696; */ /* #66101F = also dark red? */
   margin: 10px;
   padding: 10px;
   text-align: center;
@@ -34,7 +34,7 @@
 }
 
 .profevents div {
-  background-color: #99A891; /*dark greenish gray*/
+  background-color: #99A891; /*dark greenish gray*/ /* old color: #BDC696;*/
   margin: 15px;
   text-align: center;
   color: white;
