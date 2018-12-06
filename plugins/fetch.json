@@ -25,5 +25,13 @@
       "API_KEY_FOR_ANDROID": "AIzaSyCrB90J8TIaWX32cH8kfr5J3pRTmvGBGAQ",
       "API_KEY_FOR_IOS": "AIzaSyCrB90J8TIaWX32cH8kfr5J3pRTmvGBGAQ"
     }
+  },
+  "cordova-plugin-splashscreen": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-splashscreen@5.0.2"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }
