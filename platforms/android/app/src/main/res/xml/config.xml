@@ -70,7 +70,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <splash src="res\screen\android\campfire-splash-screen1.jpeg" />
+    <splash src="res/screen/android/campfire-splash-screen1.jpeg" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="xwalkZOrderOnTop" value="true" />

@@ -59,11 +59,11 @@
 .eventsbox div {
   margin: 20px;
   text-align: center;
-  color: black;
+  color: #414351;
 }
 
 .eventsbox h1 {
-  color: black;
+  color: #414351;
   font-size: 20px;
   text-align: left;
   text-transform: uppercase;
@@ -71,14 +71,14 @@
 }
 
 .eventsbox p {
-  color: black;
+  color: #414351;
   font-size: 16px;
   text-align: left;
   line-height: 1;
 }
 
 button {
-  background-color: #1B1F3B; /*dark blue*/
+  background-color: #99A891;
   border: none;
   border-radius: 12px;
   color: white;
@@ -87,6 +87,14 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.fobevents { /* using for the Add Event button on index.html */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
 }
 
 #map_canvas { /* Must bigger size than 100x100 pixels */

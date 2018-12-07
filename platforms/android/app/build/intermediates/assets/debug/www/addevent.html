@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Home/Events Screen </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="index/css" href="css/index.css">
+<link rel="stylesheet" type="index/css" href="css/events.css">
+<link rel="stylesheet" type="text/css" href="css/addevent.css">
+<script src="https://www.gstatic.com/firebasejs/5.6.0/firebase.js"></script>
+</head>
+
+<body>
+  <a href="login.html">Login Test</a> <!--test, delete later-->
+
+  <div class="navBar">
+    <div><a href = "index.html" class="icon" style="text-decoration: none;"><i class="fa fa-arrow-left"></i></a></div>
+    <h1>Add an Event!</h1>
+    <div><a href = "profile.html" class="icon" style="text-decoration: none;"><i class="fa fa-user"></i></a></div>
+  </div>
+
+  <div class="create_event">
+    <h2> Describe Your Event </h2>
+    <p> * These fields are required </p>
+    <form action="index.html">
+      Event Name *<br>
+      <input type="text" name="event_name" placeholder="Event Name" maxlength="250">
+      <br>
+      Date<br>
+      <input type="text" name="date" placeholder="Date of Event" maxlength="250">
+      <br>
+      Location *<br>
+      <input type="text" name="address" placeholder="Type address here" maxlength="300">
+      <br>
+      Interests *<br>
+      <select name="interests"> //data_bind="value:interest_id" id="event_interest_id" name="event[interests_id]"
+        <option>Select an interest the event falls under</option>
+        <option>Art Expo</option>
+        <option>Festivals</option>
+        <option>Fitness</option>
+        <option>Gaming</option>
+        <option>Happy Hour</option>
+        <option>Live Music</option>
+        <option>Painting</option>
+        <option>Sports</option>
+        <option>Tech</option>
+        <option>Yodeling</option>
+      </select>
+      <br> <br>
+      <input type="submit" value="Publish Event">
+    </form>
+  </div>
+
+  <script src="js/firebase.js"></script>
+
+</body>
+</html>
