@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="index/css" href="css/index.css">
 <link rel="stylesheet" type="index/css" href="css/events.css">
+<link rel="stylesheet" type="text/css" href="css/addevent.css">
 <script src="https://www.gstatic.com/firebasejs/5.6.0/firebase.js"></script>
 </head>
 
@@ -21,6 +22,23 @@
   <div class="create_event">
     <h2> Describe Your Event </h2>
     <p> * These fields are required </p>
+
+    <script>
+    using Firebase;
+    using Firebase.Database;
+    using Firebase.Unity.Editor;
+
+    public class MyScript: MonoBehavior {
+      void Start() {
+        //set up editor before calling into realtime database
+        FirebaseApp.DefaultInstance.SetEditorDatabaseURL(https://campfire422.firebaseio.com/);
+        //get root reference location of the databaseURL
+        DatabaseReference reference = FirebaseDatabase.DefaultInstance.RootReference;
+      }
+    }
+
+    </script>
+
     <form action="index.html">
       Event Name *<br>
       <input type="text" name="event_name" placeholder="Event Name" maxlength="250">
@@ -51,6 +69,7 @@
   </div>
 
   <script src="js/firebase.js"></script>
+  <script src="js/addevent.js"></script>
 
 </body>
 </html>

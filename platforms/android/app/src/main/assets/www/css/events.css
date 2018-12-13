@@ -42,11 +42,11 @@
 
 .eventsnav h1 {
   color: white;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .iconEvents { /* customizing icons for navigation bar*/
-	color: white;
+	color: #BDC696;
   font-size: 30px;
   align-items: center;
   transform: translate(-50%, -50%);
@@ -60,11 +60,11 @@
 .eventsbox div {
   margin: 20px;
   text-align: center;
-  color: black;
+  color: #414351;
 }
 
 .eventsbox h1 {
-  color: black;
+  color: #414351;
   font-size: 20px;
   text-align: left;
   text-transform: uppercase;
