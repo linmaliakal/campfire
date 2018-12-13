@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Dec 12 22:27:33 CST 2018
+#Wed Dec 12 23:21:07 CST 2018
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/linmaliakal/Desktop/campfire/platforms/android/app/build/intermediates/assets/debug

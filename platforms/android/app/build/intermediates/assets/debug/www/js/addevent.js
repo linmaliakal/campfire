@@ -1,4 +1,13 @@
-function GatherEventInfo() {
+function gatherData() {
+  var event = {
+    event_name: "Knitting",
+    date: "12/25/1998",
+    address: ,
+    interests:
+  };
+  document.getElementById("event_name").innerHTML = event.event_name + " on this date: " + event.date;
+}
+/* function GatherEventInfo() {
   var event_name;
   var date;
   var address;
@@ -34,4 +43,4 @@ function addEvent(var event_name, var date, var address, var interests) {
   childUpdates["/user-scores/" + userId + "/" + key] = entryValues;
 
   mDatabase.UpdateChildrenAsync(childUpdates);
-}
+} */
